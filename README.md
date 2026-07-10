@@ -5,8 +5,9 @@ CTTS032
 
 ## FULL NAME
 Archita Panda
+
 ## NO. OF WEEKS
-6 Weeks
+4 Weeks
 
 ## PROJECT NAME
 Weather Analysis Using Python
